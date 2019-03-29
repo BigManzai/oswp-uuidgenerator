@@ -13,8 +13,8 @@
  * @wordpress-plugin
  * Plugin Name:       oswp-uuidgenerator
  * Plugin URI:        https://github.com/BigManzai/oswp-uuidgenerator
- * Description:       Das OpenSim Plugin zeigt eine neue uuid an.
- * Version:           1.0.0
+ * Description:       Das uuid Generator Plugin zeigt eine zufallsuuid an, die direkt in OpenSim verwendet werden kann.
+ * Version:           1.0.1
  * Author:            Manfred Aabye
  * Author URI:        http://openmanniland.de
  * Text Domain:       oswp-uuidgenerator
