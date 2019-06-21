@@ -7,6 +7,19 @@ Diese Plugin Reihe ist dafür gedacht den OpenSimulator mit Wordpress zu kombini
 
 Dieses Plugin zeigt einfach nur bei jedem Seitenaufruf, eine neue OpenSim geeignete UUID für den weiteren gebrauch an.
 
+### Install
+Die Plugin stellen ein Widget zur verfügung.
+
+Nach dem Aktivieren im Theme bereich steht ein Widget zur verfügung.
+
+The plugin provide a widget.
+
+After activating in the theme area a widget is available.
+
+Le plugin fournit un widget.
+
+Après activation dans la zone de thème, un widget est disponible.
+
 ### Lizens
 
 This program is distributed in the hope that it will be useful,
