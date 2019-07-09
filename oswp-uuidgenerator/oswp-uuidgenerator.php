@@ -198,7 +198,7 @@ class oswp_uuidgenerator extends WP_Widget {
 
 		// Display the admin form
 		// Das Admin-Formular anzeigen
-		include( plugin_dir_path(__FILE__) . 'views/uuidgenerator-admin.php' );
+		//include( plugin_dir_path(__FILE__) . 'views/uuidgenerator-admin.php' );
 
 	} // end form
 
